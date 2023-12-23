@@ -90,7 +90,9 @@ background-color: rgb(25, 122, 233);
   width: 100%;
   height: 775px;
   background-color: #fcc302;
+  
 }
+
 .caption{
   width: 600px;
   padding-top: 350px;
@@ -346,11 +348,8 @@ background-color: rgb(25, 122, 233);
 .icon-play-2{
   width: 510px;
   height: 483px;
-  /* display: flex ;
-  align-items: center ;
-  justify-content: center ; */
   position: absolute;
-  right: 778px;
+  right: 800px;
   top: 2390px;
   background-color: rgba(252, 195, 2, 0.5);
   display: none;
@@ -441,7 +440,7 @@ background-color: rgb(25, 122, 233);
   width: 510px;
   height: 483px;
   position: absolute;
-  right: 188px;
+  right: 209px;
   top: 1013px;
   background-color: rgba(252, 195, 2, 0.5);
   display: none;
@@ -622,7 +621,7 @@ background-color: #fc8b02;
   background-color: rgb(52, 52, 52);
   position: absolute;
   top: 70%;
-  right: 874px;
+  right: 903px;
   border-top: 3px solid white; 
   display: none;
 }
@@ -635,7 +634,7 @@ background-color: #fc8b02;
   background-color: rgb(52, 52, 52);
   position: absolute;
   top: 70%;
-  right: 757px;
+  right: 785px;
   border-top: 3px solid white;
   display: none;
 }
@@ -648,7 +647,7 @@ background-color: #fc8b02;
   background-color: rgb(52, 52, 52);
   position: absolute;
   top: 70%;
-  right: 613px;
+  right: 640px;
   border-top: 3px solid white;
   display: none;
 }
